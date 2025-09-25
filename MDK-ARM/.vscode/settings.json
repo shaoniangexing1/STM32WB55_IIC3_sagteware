@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iic3.h": "c",
+        "main.h": "c",
+        "stm32wbxx_hal.h": "c",
+        "stm32wbxx_hal_conf.h": "c",
+        "stm32wbxx.h": "c"
+    }
+}
